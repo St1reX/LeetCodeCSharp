@@ -1,6 +1,6 @@
 # Logic Problems in C#
 
-This repository contains solutions to various logic problems implemented in C#. Each problem is contained in its own directory. Every of this problems could be found on LeetCode.
+This repository contains solutions to various logic problems implemented in C#. Each problem is contained in its own directory. Every of these problems could be found on LeetCode.
 
 ## List of Problems
 
