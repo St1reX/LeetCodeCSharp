@@ -1,0 +1,7 @@
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\_14.Longest_Common_Prefix.exe.config
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\_14.Longest_Common_Prefix.exe
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\_14.Longest_Common_Prefix.pdb
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\14. Longest Common Prefix.csproj.AssemblyReference.cache
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\14. Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\_14.Longest_Common_Prefix.exe
+C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\_14.Longest_Common_Prefix.pdb
