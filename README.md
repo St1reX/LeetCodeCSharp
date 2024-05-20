@@ -4,6 +4,6 @@ This repository contains solutions to various logic problems implemented in C#. 
 
 ## List of Problems
 
-- [Problem 1: FizzBuzz](Project1-Name/README.md)
-- [Problem 2: Prime Number Check](Project2-Name/README.md)
-- [Problem 3: Fibonacci Sequence](Project3-Name/README.md)
+- [Problem 14: Longest Common Prefix](Longest-Common-Prefix/README.md)
+- [Problem 20: Valid Parentheses](Valid-Parentheses/README.md)
+- [Problem 9: Palindrome Number](Palindrome-Number/README.md)
