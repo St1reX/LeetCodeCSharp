@@ -4,6 +4,6 @@ This repository contains solutions to various logic problems implemented in C#. 
 
 ## List of Problems
 
-- [Problem 14: Longest Common Prefix](Longest-Common-Prefix/)
-- [Problem 20: Valid Parentheses](Valid-Parentheses/)
-- [Problem 9: Palindrome Number](Palindrome-Number/)
+- [Problem 14: Longest Common Prefix](Longest Common Prefix/)
+- [Problem 20: Valid Parentheses](Valid Parentheses/)
+- [Problem 9: Palindrome Number](Palindrome Number/)
