@@ -1,7 +1,0 @@
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\bin\Debug\_9.Palindrome_Number.exe.config
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\bin\Debug\_9.Palindrome_Number.exe
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\bin\Debug\_9.Palindrome_Number.pdb
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\obj\Debug\9. Palindrome Number.csproj.AssemblyReference.cache
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\obj\Debug\9. Palindrome Number.csproj.CoreCompileInputs.cache
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\obj\Debug\_9.Palindrome_Number.exe
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\9. Palindrome Number\9. Palindrome Number\obj\Debug\_9.Palindrome_Number.pdb

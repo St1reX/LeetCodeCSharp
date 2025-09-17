@@ -1,7 +1,0 @@
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\_20.Valid_Parentheses.exe.config
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\_20.Valid_Parentheses.exe
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\_20.Valid_Parentheses.pdb
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\20. Valid Parentheses.csproj.AssemblyReference.cache
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\20. Valid Parentheses.csproj.CoreCompileInputs.cache
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\_20.Valid_Parentheses.exe
-C:\Users\uryga\Desktop\programowanie DLA SIEBIE\projekty C#\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\_20.Valid_Parentheses.pdb
