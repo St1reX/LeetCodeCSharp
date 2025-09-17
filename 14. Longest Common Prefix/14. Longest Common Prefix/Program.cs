@@ -10,7 +10,7 @@ namespace _14.Longest_Common_Prefix
     {
         static void Main(string[] args)
         {
-            string[] test = { "dog", "racecar", "car" };
+            string[] test = { "flower", "flow", "flight" };
             Console.WriteLine(LongestCommonPrefix(test));
             
         }
